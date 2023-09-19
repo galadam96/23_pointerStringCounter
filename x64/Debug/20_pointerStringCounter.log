@@ -1,0 +1,4 @@
+﻿  20_pointerStringCounter.c
+C:\Users\Asus\Desktop\C\20_pointerStringCounter\20_pointerStringCounter.c(35,15): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Asus\Desktop\C\20_pointerStringCounter\20_pointerStringCounter.c(29,8): warning C4090: 'initializing': different 'const' qualifiers
+  20_pointerStringCounter.vcxproj -> C:\Users\Asus\Desktop\C\20_pointerStringCounter\x64\Debug\20_pointerStringCounter.exe
